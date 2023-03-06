@@ -1,0 +1,80 @@
+* {
+    margin: 0%;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+body.main {
+    background-color: rgb(224, 247, 247);
+    display: flex;
+}
+
+.container {
+    height: 1200px;
+    width: 100%;
+}
+
+.div-1 {
+    background-color: rgb(131, 108, 236);
+    text-align: center;
+    height: 100px;
+    margin: 20px;
+}
+
+.div-1 h1 {
+    padding: 25px;
+}
+
+.div-2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: 25px;
+}
+
+#from1 {
+    padding: 10px;
+    width: 100%;
+    height: 300px;
+    background-color: rgb(194, 112, 112);
+    text-align: center;
+    padding: 18px 15px;
+}
+
+#name {
+    margin: 5px;
+}
+
+.input {
+    height: 25px;
+}
+
+#hrr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#sign-up {
+    border-radius: 20px;
+    height: 40px;
+    width: 100px;
+}
+
+.div-3 {
+    background-color: rgb(131, 108, 236);
+    text-align: center;
+    height: 100px;
+    margin: 20px;
+}
+
+.div-2 p {
+    padding: 20px;
+}
+
+#sign-up {
+    background-color: rgb(38, 12, 131);
+    color: antiquewhite;
+    border: 0;
+}
